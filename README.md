@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9518f6f7-9cc5-4434-933c-3f367acf5b43/deploy-status)](https://app.netlify.com/sites/vigilant-mclean-00bd12/deploys)
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
