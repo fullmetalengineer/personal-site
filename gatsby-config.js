@@ -8,7 +8,7 @@ module.exports = {
       summary: `Lead Software Engineer at Codefi Labs, a software agency from the American Heartland.`,
     },
     description: `Alan Long's personal blog.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://alan.d.long/`,
     social: {
       twitter: `TacticalMinivan`,
     },
@@ -55,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-148918617-2`,
       },
     },
     `gatsby-plugin-feed`,
