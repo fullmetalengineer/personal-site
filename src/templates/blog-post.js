@@ -19,7 +19,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       />
       <article>
         <header>
-          <h1
+          <h1 className='post-title'
             style={{
               marginTop: rhythm(1),
               marginBottom: 0,

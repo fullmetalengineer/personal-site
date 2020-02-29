@@ -1,0 +1,37 @@
+html {
+    background-color: #242832;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+      color: lightcoral;
+  }
+
+p, li {
+    color: white;
+}
+
+a {
+    color:  burlywood;
+}
+
+blockquote > p {
+    color: grey;
+}
+
+.post-title {
+    color: lightcoral;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+strong {
+    color: burlywood
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
