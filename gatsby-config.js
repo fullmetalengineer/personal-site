@@ -5,7 +5,7 @@ module.exports = {
       name: `Alan Long`,
       firstName: `Alan`,
       lastName: `Long`,
-      summary: `Lead Software Engineer at Codefi Labs, a software agency from the American Heartland.`,
+      summary: `Lead Software Engineer at a software agency in the American Heartland.`,
     },
     description: `Alan Long's personal blog.`,
     siteUrl: `https://alan.d.long/`,
