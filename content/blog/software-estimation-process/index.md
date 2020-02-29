@@ -55,7 +55,7 @@ For the tasks you do a lot, you can probably fairly easily estimate how long it'
 
 #### 3. Create three time estimates for each endpoint, data model, and service
 
-I have a template Excel spreadsheet I use where I enter each known endpoint, data model, and service class that I'll end up needing to write. Then as I am estimating, I include estimated for each possibility. If things go well, we'll be closer to our optimistic range. If they go as planned, we'll hit nominal. If we run into a number of issues along the way, maybe we end up closer to pessimistic. For __Known unknowns__, I am very liberal with my pessimistic estimate, and very conservative with my optimistic estimate.
+I have a template Excel spreadsheet I use where I enter each known endpoint, data model, and service class that I'll end up needing to write. Then as I am estimating, I include estimates for each possibility. If things go well, we'll be closer to our optimistic range. If they go as planned, we'll hit nominal. If we run into a number of issues along the way, maybe we end up closer to pessimistic. For __Known unknowns__, I am very liberal with my pessimistic estimate, and very conservative with my optimistic estimate.
 
 After doing all of my __Known knowns__, I then include an actual line item for __Unknown unknowns__, the things we don't know that we don't yet know. This varies considerably, but seems to mostly be correlated to general size of the project and if the project is doing something unique we've never done before.
 
