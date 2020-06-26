@@ -39,3 +39,8 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+code[class*="language-"],
+code[class*="language-"] {
+    text-shadow: none !important;
+}
