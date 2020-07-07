@@ -36,6 +36,8 @@ You may end up with many different accounts, _and that's ok!_ In fact, that's th
 - Savings - Utilities
 - Savings - Credit Cards
 
+The next two steps requires us to create both push & pull aspects of the system. You want to push the right amount of funds to these new sub-accounts, while also creating automatic payments for your vendors who will then pull the correct amounts from these sub-accounts. 
+
 ### 4. Start Your Funds Flow
 
 ![The Count - 4](https://i.kinja-img.com/gawker-media/image/upload/s---ysF4SLK--/17unvzwcdevqqjpg.jpg)
@@ -52,11 +54,15 @@ For example, I have 2 automated transfers per month that moves 1/2 of the total 
 
 To make it easy, let's say I owe $1,000 per month. I pull 1/2 of the total ($500) on the 5th and 1/2 of the total (another $500) on the 20th. I leave a few days in-between when I receive my incoming funds and when I pull funds for these sub-accounts to give myself leeway if something stupid happened in-between. It's usually a sign of being over-engineered when a system has no slack and can't handle any deviations from the norm!
 
-### 5. Automatic Payments For Subaccounts
+### 5. Automatic Payments For Sub-Accounts
 
 ![The Count - 5](https://2.bp.blogspot.com/-srQvt67e4Lk/UOihtLiirGI/AAAAAAAACMc/We-QJRbioLc/s1600/count+von+count.jpg)
 
-Now that we have dedicated accounts that will always have the specific amounts of the debts we owe in them each month, we can set up automatic payments with your service providers from those dedicated accounts. We've already earmarked and set aside the fiat for the payments, so we can be sure that we'll make our payments next month without issue. With the automated transfers, assuming you have enough incoming funds to cover your debts, you don't even have to check! The system will just run.
+Now that we have dedicated accounts that will always have the specific amounts of the debts we owe in them each month, we can set up automatic payments with your service providers from those dedicated accounts. We've already earmarked and set aside the fiat for the payments, so we can be sure that we'll make our payments next month without issue. With the automated transfers, assuming you have enough incoming funds to cover your debts, you don't even have to check!
+
+The system will just run. Personal Finance Machine Go BRRRRRRR
+![Personal Finance Machine Go BRRRRR](https://i.imgflip.com/47jgxp.jpg)
+
 
 ### 6. Automated Transfers to Emergency Savings
 ![The Count - 6](https://image.pbs.org/poster_images/assets/00100450270_lgvowSO.jpg)
