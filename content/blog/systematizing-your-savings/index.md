@@ -12,7 +12,7 @@ After wasting a lot of time optimizing things that really didn't need to be, and
 
 ![The Count - 1](https://i.ytimg.com/vi/xbbXhlMafcM/maxresdefault.jpg)
 
-The first important thing to note is that your choice of tool is very important to being able to complete the job. I'd suggest using a bank that's familiar with and has experience with online banking. I recommend __Ally__, it's what I personally use and I really like it overall. The reason for this is that in order to put this into practice, you need to be able to generate savings accounts at-will and create automated transfers.
+The first important thing to note is that your choice of tool is very important to being able to complete the job. I'd suggest using a bank that's oriented around online banking. I recommend __Ally__, it's what I personally use and I really like it overall. The reason for this is that in order to put this into practice, you need to be able to generate savings accounts at-will and create automated transfers.
 
 Ally also seems to have some of the highest savings account rates I know of, and while they may not be the absolute highest, they're "good enough" and already a part of a good product to use for creating this system. The point isn't to complicate things by having varied accounts on different platforms to eek out an extra half-percent per year. It's to be _good enough_.
 
