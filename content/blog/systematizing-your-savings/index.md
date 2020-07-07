@@ -67,25 +67,47 @@ The system will just run. Personal Finance Machine Go BRRRRRRR
 ### 6. Automated Transfers to Emergency Savings
 ![The Count - 6](https://image.pbs.org/poster_images/assets/00100450270_lgvowSO.jpg)
 
-After setting up your payments to your fixed costs and debts, you need to prioritize your own savings. Set up another savings account, name it "Emergency Savings", and set up an automated transfer to it. You can always tweak the amount later to account for your real cash outflows, but I recommend starting at 10% of your incoming revenue and increasing that number over time as much as you can. The biggest factor contributing to your ability to build wealth is your savings rate. It's not your investment returns or your interest rates on savings accounts, it's how much fiat you can save over long periods of time. MAXIMIZE THIS.
+After setting up your payments to your fixed costs and debts, you need to prioritize your own savings. Set up another savings account, name it "Emergency Savings", and set up an automated transfer to it. You can always tweak the amount later to account for your real cash outflows, but I recommend starting at 10% of your incoming revenue and increasing that number over time as much as you can. 
+
+The biggest factor contributing to your ability to build wealth is your savings rate. It's not your investment returns or your interest rates on savings accounts, it's how much fiat you can save over long periods of time. 
+
+__MAXIMIZE THIS.__
+
+I've worked hard to get my personal savings rate to around 35%. As I pay down more debt, I think I can lever that up to around 50% if I'm able to avoid buying a car over the next several years. Can you imagine keeping 35% of your paycheck?
+
+How much easier could you breathe if, each paycheck, you went from keeping 5-10% of it to keeping 35% of it? How much faster could you build a 3-6 momth emergency fund? Pay down your home? Free yourself from debt slavery?
+
+The rate at which you save is critical to your long-term financial health. I can't make it any more plain than that. __Act accordingly.__
 
 ### 7. Accounts For Future Expenses
 ![The Count - 7](https://circuswarehouse.com/wp-content/uploads/2019/01/count7.jpg)
 
-Now that we have our important bills and savings taken care of, you likely have future expenses you should be saving for. If you own a home, you should be putting money back for home maintenance items that will inevitably creep up. Water heater goes out, your A/C breaks, you develop a leak in the roof, etc. These are all normal and expected things, so setting aside some money early to go towards these inevitable costs will save you a lot of worry in the future. Maybe you're a renter, but you know you'll need a new car in a few years. Whatever is the case, there are always expected future costs.
+Now that we have our important bills and savings taken care of, you likely have future expenses you should be saving for. If you own a home, you should be putting money back for home maintenance items that will inevitably creep up. Water heater goes out, your A/C breaks, you develop a leak in the roof, etc. 
 
-Save for them!
+These are all normal and expected things, so setting aside some money early to go towards these inevitable costs will save you a lot of worry in the future. Maybe you're a renter, but you know you'll need a new car in a few years. Whatever is the case, there are always expected future costs.
 
-Decide when the likely time you'll to buy the thing is (say, 3 years from now). Figure out the total cost you'll need to pay out of pocket when the time comes (say....$3,000 for home repairs).
+__Save for them!__
 
-3 years is 36 months. $3,000/36 = $83.34 per month you should start saving now to completely cover those future costs. Set up an automated transfer to a new savings account, "Home Repair", for that amount each month! Now by the time you expect to need the money, assuming your situation stays relatively stable, you'll have it (and you'll have a lot less worry!)
+Decide when the likely time you'll to buy the thing is (say, 3 years, 36 months from now). Figure out the total cost you'll need to pay out of pocket when the time comes (say....$3,000 for home repairs).
+
+$3,000/36 months = $83.34/month required to start saving now to completely cover those future costs. What should you do in order to handle this expected future cost? 
+
+Set up an automated transfer to a new savings account, "Home Repair", for that amount each month! Now by the time you expect to need the money, assuming your situation stays relatively stable, you'll have it (and you'll have a lot less worry!)
 
 ### 8. Relax
 ![The Count - 8](https://i.ytimg.com/vi/CyBVTmlNMJQ/maxresdefault.jpg)
 
-The last, and final thing to do, is to relax a little. Obviously there's still the questions of investments, unexpected and weird personal situations you may be in, etc. This post is about the "happy path", the generic system you can apply to your finances to reduce the amount of mental overhead you have to devote to managing your finances. For the personal finance questions that fall outside the scope of this post, take the Pareto distribution seriously, and identify the ways you can have a large, meaningful impact to both your finances and quality of life, and do those. Don't worry about ripping out every single percentage point of gain; unless it's your damn hobby, the extra little bit you'll earn will not be worth the extra effort on your part.
+The last, and final thing to do after following the above, is to relax a little. 
+
+Obviously there's still the questions of investments, unexpected and weird personal situations you may be in, etc. This post is about the __"Happy Path"__, the generic system you can apply to your finances to reduce the amount of mental overhead you have to devote to managing your finances. For the personal finance questions that fall outside the scope of this post, take the Pareto distribution seriously, and identify the ways you can have a large, meaningful impact to both your finances and quality of life, and do those. 
+
+Don't worry about ripping out every single percentage point of gain; unless it's your damn hobby, the extra little bit you'll earn will not be worth the extra effort on your part.
 
 Hopefully, you already have a good relationship with money. If you don't, well, here's a few steps you can take to start working on it. I basically don't have to check my finances at all unless there's something unique happening with them (such as a new debt I need to service, paying off a debt so I can cancel that automated transfer and increase my automated transfers to my investment accounts, etc).
+
+That is both financial and mental freedom! Creating systems that form positive-feedback loops like this one are some of the easiest bang-for-your-buck changes you can make. That's true of personal finance, your health, your relationships, etc.
+
+These types of systems you can create for yourself, and stick to, are extremely powerful. Make them work for you!
 
 Until my next post...
 <br/>
