@@ -32,4 +32,3 @@ Language does change, of course. In a sane world, ran by sane people in a sane c
 Quite literally as I'm writing this post, Youtube has decided to ban anyone who criticizes the 2020 presidential election outcome or indicates there may have been fraud in it, while there are a number of high profile fraud cases both at and making their way to SCOTUS at the moment. The digital public commons participate in this, too. They've been cracking down on 'mis' and 'dis' information for years, in order to make sure they solidify their control over the public narrative. Note that they're not saying it's *wrong* information. Just inconvenient information. 'Dis'-information. "You weren't supposed to say or hear that" is the undercurrent of the term.
 
 Welcome to the Infowar, anon.
-![Nasim Aghdam](https://i.ytimg.com/vi/ubu557K-_T8/maxresdefault.jpg)
