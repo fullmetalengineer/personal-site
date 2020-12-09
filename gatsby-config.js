@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Alan's Blog`,
+    title: `AD's Blog`,
     author: {
-      name: `Alan Long`,
-      firstName: `Alan`,
-      lastName: `Long`,
-      summary: `Lead Software Engineer at a software agency in the American Heartland.`,
+      name: `AD`,
+      firstName: `AD`,
+      lastName: ``,
+      summary: `Ruralite software engineering dad. Part-time Conspiracy Analyst. Builder of software. Hiker of trails. Grower of gardens. Digital Hillbilly.`,
     },
-    description: `Alan Long's personal blog.`,
+    description: `AD's personal blog`,
     siteUrl: `https://alan.d.long/`,
     social: {
       twitter: `TacticalMinivan`,

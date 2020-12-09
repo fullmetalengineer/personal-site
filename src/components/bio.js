@@ -60,7 +60,7 @@ const Bio = () => {
       <p style={{ color: 'darkgrey' }}>
         Written by <strong style={{color: 'lightcoral' }}>{author.name}</strong>
         <br></br>
-        <strong style={{color: 'lightcoral' }}>{author.firstName}</strong> is the {author.summary}
+        {author.summary}
         {` `}
         <br></br>
         <a href={`https://twitter.com/${social.twitter}`}>
