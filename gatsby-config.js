@@ -8,7 +8,7 @@ module.exports = {
       summary: `Ruralite software engineering dad. Part-time Conspiracy Analyst. Builder of software. Hiker of trails. Grower of gardens. Digital Hillbilly.`,
     },
     description: `AD's personal blog`,
-    siteUrl: `https://alan.d.long/`,
+    siteUrl: `https://alandlong.com/`,
     social: {
       twitter: `TacticalMinivan`,
     },
